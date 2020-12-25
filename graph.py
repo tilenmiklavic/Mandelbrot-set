@@ -12,6 +12,7 @@ def kvadriraj(i, j):
     
     return [x, y]
 
+
 def pristej(i, j, x, y):
     r = i + x
     t = j + y
